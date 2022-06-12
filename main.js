@@ -10,3 +10,5 @@ function calc(p,r,m){
 
 
 calc(700000,10,12);
+
+document.getElementById("demo").innerHTML = arr;
